@@ -1,4 +1,5 @@
 # 27_Remove_Element
+###### tags: `leetcode` `27`
 ## Problem Statement
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
