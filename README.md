@@ -14,3 +14,5 @@ Trying to do Leetcode as my daily practice. Will update a solution with explaina
 [https://hackmd.io/XDYu2p_rTDKeDh5v6n5yaQ](https://)
 ### 41_First_Missing_Positive
 [https://hackmd.io/ifk6EuQ7RmGpr5ELZcUtIA](https://)
+### 299_Bulls_and_Cows
+[https://hackmd.io/e5FPAhrkRa6vWhHSmIrPKQ](https://)
