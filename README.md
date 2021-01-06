@@ -18,5 +18,7 @@ Trying to do Leetcode as my daily practice. Will update a solution with explaina
 [https://hackmd.io/@eesss34690/H1mohgxRD](https://)
 ### 134_Gas_Station
 [https://hackmd.io/@eesss34690/HJVwucWRw](https://)
-### 118_Pascal's_Triangle
+### 118_Pascal's_Triangle_I
 [https://hackmd.io/@eesss34690/HJfXhYGRv](https://)
+### 119_Pascal's_Triangle_II
+[https://hackmd.io/@eesss34690/rysSV9GRD](https://)
