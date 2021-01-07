@@ -22,3 +22,5 @@ Trying to do Leetcode as my daily practice. Will update a solution with explaina
 [https://hackmd.io/@eesss34690/HJfXhYGRv](https://)
 ### 119_Pascal's_Triangle_II
 [https://hackmd.io/@eesss34690/rysSV9GRD](https://)
+### 169_Majority_Element
+[https://hackmd.io/YvWqXfvJRjGXY2UhvTtB7w](https://)
