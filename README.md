@@ -26,3 +26,5 @@ Trying to do Leetcode as my daily practice. Will update a solution with explaina
 [https://hackmd.io/YvWqXfvJRjGXY2UhvTtB7w](https://)
 ### 229_Majority_Element_II
 https://hackmd.io/BChXZQVCR52fl3hC2IUSJg
+### 274_H_Index
+https://hackmd.io/RivF6easReSufHwOc0WaVw
