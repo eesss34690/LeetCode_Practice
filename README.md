@@ -27,4 +27,6 @@ Trying to do Leetcode as my daily practice. Will update a solution with explaina
 ### 229_Majority_Element_II
 https://hackmd.io/BChXZQVCR52fl3hC2IUSJg
 ### 274_H_Index
-https://hackmd.io/RivF6easReSufHwOc0WaVw
+https://hackmd.io/@eesss34690/B1aOsADAD
+### 275_H_Index_II
+https://hackmd.io/@eesss34690/SJnB99qCv
