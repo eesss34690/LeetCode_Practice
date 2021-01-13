@@ -30,3 +30,5 @@ https://hackmd.io/BChXZQVCR52fl3hC2IUSJg
 https://hackmd.io/@eesss34690/B1aOsADAD
 ### 275_H_Index_II
 https://hackmd.io/@eesss34690/SJnB99qCv
+### 217_Contain_Duplicate
+https://hackmd.io/@eesss34690/HJWUyViCD
