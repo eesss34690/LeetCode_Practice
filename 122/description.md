@@ -1,4 +1,4 @@
-### 122_Best_Time_to_Buy_and_Sell_Stock_II
+# 122_Best_Time_to_Buy_and_Sell_Stock_II
 ###### tags: `leetcode` `55`
 ## Problem Statement
 Say you have an array prices for which the ith element is the price of a given stock on day i.
