@@ -42,3 +42,6 @@ https://hackmd.io/@eesss34690/HkIfVwaAw
 https://hackmd.io/@eesss34690/Sy57jvp0D
 ### 123_Best_Time_to_Buy_and_Sell_Stock_III
 https://hackmd.io/@eesss34690/Sk1jDQHy_
+## String
+### 28_Implement_strStr()
+https://hackmd.io/@eesss34690/B1_tffFJd
