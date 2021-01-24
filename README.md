@@ -49,3 +49,5 @@ https://hackmd.io/@eesss34690/B1_tffFJd
 https://hackmd.io/@eesss34690/By9Mewqyd
 ### 58_Length_of_Last_Word
 https://hackmd.io/@eesss34690/HJCtwDcyO
+### 387_First_Unique_Character_in_a_String
+https://hackmd.io/@eesss34690/ByVgGuqkd
