@@ -45,3 +45,5 @@ https://hackmd.io/@eesss34690/Sk1jDQHy_
 ## String
 ### 28_Implement_strStr()
 https://hackmd.io/@eesss34690/B1_tffFJd
+### 14_Longest_Common_Prefix
+https://hackmd.io/@eesss34690/By9Mewqyd
