@@ -51,3 +51,5 @@ https://hackmd.io/@eesss34690/By9Mewqyd
 https://hackmd.io/@eesss34690/HJCtwDcyO
 ### 387_First_Unique_Character_in_a_String
 https://hackmd.io/@eesss34690/ByVgGuqkd
+### 383_Ransom_Note
+https://hackmd.io/@eesss34690/rkKfh3oJO
