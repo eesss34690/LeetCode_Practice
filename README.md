@@ -59,3 +59,5 @@ https://hackmd.io/@eesss34690/HJAvR3iyO
 https://hackmd.io/@eesss34690/BJzIPpoJu
 ### 345_Reverse_Vowels_of_a_String 
 https://hackmd.io/@eesss34690/S1sBBgayu
+### 205_Isomorphic_Strings
+https://hackmd.io/@eesss34690/BJmZf-ayu
