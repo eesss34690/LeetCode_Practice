@@ -61,3 +61,5 @@ https://hackmd.io/@eesss34690/BJzIPpoJu
 https://hackmd.io/@eesss34690/S1sBBgayu
 ### 205_Isomorphic_Strings
 https://hackmd.io/@eesss34690/BJmZf-ayu
+### 290_Word_Pattern
+https://hackmd.io/@eesss34690/Byx3iLC1_
