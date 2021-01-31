@@ -67,3 +67,5 @@ https://hackmd.io/@eesss34690/Byx3iLC1_
 https://hackmd.io/@eesss34690/Bylg7cklu
 ### 49_Group_Anagrams
 https://hackmd.io/@eesss34690/SkoNRJZg_
+### 38_Count_and_Say
+https://hackmd.io/@eesss34690/BJ5dnt7x_
