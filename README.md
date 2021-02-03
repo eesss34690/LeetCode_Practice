@@ -73,3 +73,5 @@ https://hackmd.io/@eesss34690/BJ5dnt7x_
 https://hackmd.io/@eesss34690/r1_BiAExd
 ### 168_Excel_Sheet_Column_Title
 https://hackmd.io/@eesss34690/Sk7ZuX8eu
+### 171_Excel_Sheet_Column_Number
+https://hackmd.io/@eesss34690/ryY_ddDed
