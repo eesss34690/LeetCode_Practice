@@ -79,3 +79,5 @@ https://hackmd.io/@eesss34690/ryY_ddDed
 https://hackmd.io/@eesss34690/HJBNzFved
 ### 273_Integer_to_English_Words
 https://hackmd.io/@eesss34690/rJ7Iygtl_v
+### 68_Text_Justification
+https://hackmd.io/@eesss34690/rkdzeaold
