@@ -85,3 +85,5 @@ https://hackmd.io/@eesss34690/rkdzeaold
 https://hackmd.io/@eesss34690/r1wVtT3e_
 ### 76_Minimum_Window_Substring
 https://hackmd.io/@eesss34690/rJxJhzAgu
+### 30_Substring_with_Concatenation_of_All_Words
+https://hackmd.io/@eesss34690/B1F0Qw1WO
