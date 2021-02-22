@@ -89,3 +89,5 @@ https://hackmd.io/@eesss34690/rJxJhzAgu
 https://hackmd.io/@eesss34690/B1F0Qw1WO
 ### 165_Compare_Version_Numbers
 https://hackmd.io/@eesss34690/BkezNt1Gu
+### 66_Plus_One
+https://hackmd.io/@eesss34690/By4GZIbfu
