@@ -93,3 +93,5 @@ https://hackmd.io/@eesss34690/BkezNt1Gu
 https://hackmd.io/@eesss34690/By4GZIbfu
 ### 1561_Maximum_Number_of_Coins_You_Can_Get
 https://hackmd.io/@eesss34690/HJk3jEGmO
+### 365_Water_and_Jug_Problem
+https://hackmd.io/@eesss34690/rJZUJh77O
