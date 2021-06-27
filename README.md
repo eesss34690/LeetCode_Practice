@@ -103,3 +103,11 @@ https://hackmd.io/@eesss34690/r157mIiQd
 https://hackmd.io/@eesss34690/rk8vkvjmu
 ### 102_Binary_Tree_Level_Order_Traversal
 https://hackmd.io/@eesss34690/rJs9ewiQu
+
+## Algorithm Practice
+### 684_Redundant_Connection
+https://hackmd.io/@eesss34690/BJNzcIQnd
+### 315_Count_of_Smaller_Numbers_After_Self
+https://hackmd.io/@eesss34690/Skqz_JL3u
+### 135_Candy
+https://hackmd.io/@eesss34690/r1R0nJU3u
