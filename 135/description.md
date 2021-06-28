@@ -1,4 +1,4 @@
-## 135_Candy
+# 135_Candy
 ###### tags: `leetcode` `135`
 ## Problem Statement
 There are n children standing in a line. Each child is assigned a rating value given in the integer array ratings.
