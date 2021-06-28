@@ -111,3 +111,7 @@ https://hackmd.io/@eesss34690/BJNzcIQnd
 https://hackmd.io/@eesss34690/Skqz_JL3u
 ### 135_Candy
 https://hackmd.io/@eesss34690/r1R0nJU3u
+### 1300_Sum_of_Mutated_Array_Closest_to_Target
+https://hackmd.io/@eesss34690/B15NH-P3_
+### 1047_Remove_All_Adjacent_Duplicates_In_String
+https://hackmd.io/@eesss34690/S1DbqZvhd
