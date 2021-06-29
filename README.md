@@ -115,3 +115,5 @@ https://hackmd.io/@eesss34690/r1R0nJU3u
 https://hackmd.io/@eesss34690/B15NH-P3_
 ### 1047_Remove_All_Adjacent_Duplicates_In_String
 https://hackmd.io/@eesss34690/S1DbqZvhd
+### 1004_Max_Consecutive_Ones_III
+https://hackmd.io/@eesss34690/BJ2-hnu2_
