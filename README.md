@@ -125,3 +125,5 @@ https://hackmd.io/@eesss34690/HyJisLi2d
 https://hackmd.io/@eesss34690/ryB6_86h_
 ### 363_Max_Sum_of_Rectangle_No_Larger_Than_K
 https://hackmd.io/@eesss34690/Sy9cbx16d
+### 1338_Reduce_Array_Size_to_The_Half
+https://hackmd.io/@eesss34690/Sy8iI9WT_
