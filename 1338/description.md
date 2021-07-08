@@ -1,58 +1,50 @@
-# 1338_Reduce_Array_Size_to_The_Half
-###### tags: `leetcode` `1338`
+# 378_Kth_Smallest_Element_in_a_Sorted_Matrix
+###### tags: `leetcode` `378`
 ## Problem Statement
-Given an array arr.  You can choose a set of integers and remove all the occurrences of these integers in the array.
+Given an n x n matrix where each of the rows and columns are sorted in ascending order, return the kth smallest element in the matrix.
 
-Return the minimum size of the set so that at least half of the integers of the array are removed.
+Note that it is the kth smallest element in the sorted order, not the kth distinct element.
 
 - Example 1:
 
-> Input: arr = [3,3,3,3,5,5,5,2,2,7]
-Output: 2
-Explanation: Choosing {3,7} will make the new array [5,5,5,2,2] which has size 5 (i.e equal to half of the size of the old array).
-Possible sets of size 2 are {3,5},{3,2},{5,2}.
-Choosing set {2,7} is not possible as it will make the new array [3,3,3,3,5,5,5] which has size greater than half of the size of the old array.
+> Input: matrix = [[1,5,9],[10,11,13],[12,13,15]], k = 8
+Output: 13
+Explanation: The elements in the matrix are [1,5,9,10,11,12,13,13,15], and the 8th smallest number is 13
 - Example 2:
 
-> Input: arr = [7,7,7,7,7,7]
-Output: 1
-Explanation: The only possible set you can choose is {7}. This will make the new array empty.
-- Example 3:
-
-> Input: arr = [1,9]
-Output: 1
-- Example 4:
-
-> Input: arr = [1000,1000,3,7]
-Output: 1
-- Example 5:
-
-> Input: arr = [1,2,3,4,5,6,7,8,9,10]
-Output: 5
-
+> Input: matrix = [[-5]], k = 1
+Output: -5
+ 
 - Constraints:
 
-> 1 <= arr.length <= 10^5
-arr.length is even.
-1 <= arr[i] <= 10^5
+> n == matrix.length
+n == matrix[i].length
+1 <= n <= 300
+-109 <= matrix[i][j] <= 109
+All the rows and columns of matrix are guaranteed to be sorted in non-decreasing order.
+1 <= k <= n^2
+
 ## Solution
-- This problem need to calculate the frequencies for all the number in the array.
-- A unordered map is faster than a normal map and in this case we do not need the order, so use unordered one.
-```cpp=
-unordered_map<int, int> cnt;
-for (int x : arr) ++cnt[x];
-```
-- Then put the frequencies calculated into a vector and sort out.
+- This problem needs comparison up and up by halving the size of observation scope.
+- The most efficient way to do that is ```binary search```.
+- The scope is from the smallest value to the biggest value.
+- Since the constraits show that the value s are sorted in ```non-decreasing``` order, we can know th e smallest and biggest value.
 
 ```cpp=
-for (auto [_, freq] : cnt) fre.push_back(freq);
-sort(fre.begin(), fre.end());
+int lo = matrix[0][0], hi = matrix[n-1][n-1] + 1, mid, count, tmp;
 ```
-- One by one eliminates the numbers from the one with the highest frequencies and add up to see the distance between the size.
+- See how many numbers in the matrix are smaller than the mid value.
+    - Because the matrix is in order, start from the first row and see which column has the value smaller than mid, the next row can start the search from the value, not from the last column.
 
 ```cpp=
-while (removed < half) {
-    ans ++;
-    removed += fre[i--];
+for (int i = 0; i < n; i++) {
+    while (tmp >= 0 && matrix[i][tmp] > mid) tmp--;
+    count += tmp + 1;
 }
+```
+- If the nember is to few, change the lower bound, else change the upper bound.
+
+```cpp=
+if (count < k) lo = mid + 1;
+else hi = mid;
 ```
