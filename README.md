@@ -129,3 +129,5 @@ https://hackmd.io/@eesss34690/Sy9cbx16d
 https://hackmd.io/@eesss34690/Sy8iI9WT_
 ### 378_Kth_Smallest_Element_in_a_Sorted_Matrix
 https://hackmd.io/@eesss34690/BJ6Zf4XTO
+### 718_Maximum_Length_of_Repeated_Subarray
+https://hackmd.io/@eesss34690/HJ481OE6_
