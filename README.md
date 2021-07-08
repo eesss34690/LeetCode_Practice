@@ -127,3 +127,5 @@ https://hackmd.io/@eesss34690/ryB6_86h_
 https://hackmd.io/@eesss34690/Sy9cbx16d
 ### 1338_Reduce_Array_Size_to_The_Half
 https://hackmd.io/@eesss34690/Sy8iI9WT_
+### 378_Kth_Smallest_Element_in_a_Sorted_Matrix
+https://hackmd.io/@eesss34690/BJ6Zf4XTO
