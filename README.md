@@ -5,25 +5,25 @@ My LeetCode Practice started from 2020
 Trying to do Leetcode as my daily practice. Will update a solution with explaination.
 ## Array
 ### 27_Remove_element
-[https://hackmd.io/@eesss34690/Bywqxq9aD](https://)
+https://hackmd.io/@eesss34690/Bywqxq9aD
 ### 26_Remove_Duplicates
-[https://hackmd.io/@eesss34690/rJ9Ljcqav](https://)
+https://hackmd.io/@eesss34690/rJ9Ljcqav
 ### 80_Remove_Duplicates_From_Sorted_Array_II
-[https://hackmd.io/@eesss34690/SyiEurpaw](https://)
+https://hackmd.io/@eesss34690/SyiEurpaw
 ### 189_Rotate_array
-[https://hackmd.io/@eesss34690/B19nstTav](https://)
+https://hackmd.io/@eesss34690/B19nstTav
 ### 41_First_Missing_Positive
-[https://hackmd.io/@eesss34690/BymEyjApv](https://)
+https://hackmd.io/@eesss34690/BymEyjApv
 ### 299_Bulls_and_Cows
-[https://hackmd.io/@eesss34690/H1mohgxRD](https://)
+https://hackmd.io/@eesss34690/H1mohgxRD
 ### 134_Gas_Station
-[https://hackmd.io/@eesss34690/HJVwucWRw](https://)
+https://hackmd.io/@eesss34690/HJVwucWRw
 ### 118_Pascal's_Triangle_I
-[https://hackmd.io/@eesss34690/HJfXhYGRv](https://)
+https://hackmd.io/@eesss34690/HJfXhYGRv
 ### 119_Pascal's_Triangle_II
-[https://hackmd.io/@eesss34690/rysSV9GRD](https://)
+https://hackmd.io/@eesss34690/rysSV9GRD
 ### 169_Majority_Element
-[https://hackmd.io/YvWqXfvJRjGXY2UhvTtB7w](https://)
+https://hackmd.io/YvWqXfvJRjGXY2UhvTtB7w
 ### 229_Majority_Element_II
 https://hackmd.io/BChXZQVCR52fl3hC2IUSJg
 ### 274_H_Index
@@ -123,3 +123,15 @@ https://hackmd.io/@eesss34690/HkXqXe92_
 https://hackmd.io/@eesss34690/HyJisLi2d
 ### 658_Find_K_Closest_Elements
 https://hackmd.io/@eesss34690/ryB6_86h_
+### 363_Max_Sum_of_Rectangle_No_Larger_Than_K
+https://hackmd.io/@eesss34690/Sy9cbx16d
+### 1338_Reduce_Array_Size_to_The_Half
+https://hackmd.io/@eesss34690/Sy8iI9WT_
+### 378_Kth_Smallest_Element_in_a_Sorted_Matrix
+https://hackmd.io/@eesss34690/BJ6Zf4XTO
+### 718_Maximum_Length_of_Repeated_Subarray
+https://hackmd.io/@eesss34690/HJ481OE6_
+### 300_Longest_Increasing_Subsequence
+https://hackmd.io/@eesss34690/SkvCHFU6_
+### 639_Decode_Ways_II
+https://hackmd.io/@eesss34690/rkPaJxdTu
