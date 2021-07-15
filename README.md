@@ -141,3 +141,5 @@ https://hackmd.io/@eesss34690/rJBlXNFpu
 https://hackmd.io/@eesss34690/SJbZmCc6u
 # 791_Custom_Sort_String
 https://hackmd.io/@eesss34690/BJq9d_npO
+# 611_Valid_Triangle_Number
+https://hackmd.io/@eesss34690/Sy7HsvpaO
