@@ -139,9 +139,11 @@ https://hackmd.io/@eesss34690/rkPaJxdTu
 https://hackmd.io/@eesss34690/rJBlXNFpu
 ### 162_Find_Peak_Element
 https://hackmd.io/@eesss34690/SJbZmCc6u
-# 791_Custom_Sort_String
+### 791_Custom_Sort_String
 https://hackmd.io/@eesss34690/BJq9d_npO
-# 611_Valid_Triangle_Number
+### 611_Valid_Triangle_Number
 https://hackmd.io/@eesss34690/Sy7HsvpaO
-# 18_4Sum
+### 18_4Sum
 https://hackmd.io/@eesss34690/HyIannJ0d
+### 927_Three_Equal_Parts
+https://hackmd.io/@eesss34690/BJTcw4eR_
