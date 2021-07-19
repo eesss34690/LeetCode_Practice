@@ -1,4 +1,4 @@
-### 25_Reverse_Nodes_in_k-Group
+# 25_Reverse_Nodes_in_k-Group
 ###### tags: `leetcode` `25`
 ## Problem Statement
 Given a linked list, reverse the nodes of a linked list k at a time and return its modified list.
