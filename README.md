@@ -155,3 +155,5 @@ https://hackmd.io/@eesss34690/BJv5Npf0u
 https://hackmd.io/@eesss34690/rkAY-W40O
 ### 838_Push_Dominoes
 https://hackmd.io/@eesss34690/SkMb_CUA_
+### 915_Partition_Array_into_Disjoint_Intervals
+https://hackmd.io/@eesss34690/SJoPxywR_
