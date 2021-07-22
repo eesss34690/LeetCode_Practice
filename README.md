@@ -151,3 +151,7 @@ https://hackmd.io/@eesss34690/BJTcw4eR_
 https://hackmd.io/@eesss34690/HJB8FYGAO
 ### 235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree
 https://hackmd.io/@eesss34690/BJv5Npf0u
+### 384_Shuffle_an_Array
+https://hackmd.io/@eesss34690/rkAY-W40O
+### 838_Push_Dominoes
+https://hackmd.io/@eesss34690/SkMb_CUA_
