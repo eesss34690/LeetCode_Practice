@@ -157,3 +157,5 @@ https://hackmd.io/@eesss34690/rkAY-W40O
 https://hackmd.io/@eesss34690/SkMb_CUA_
 ### 915_Partition_Array_into_Disjoint_Intervals
 https://hackmd.io/@eesss34690/SJoPxywR_
+### 814_Binary_Tree_Pruning
+https://hackmd.io/@eesss34690/Sy00aIOCO
