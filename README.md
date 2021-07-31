@@ -167,3 +167,5 @@ https://hackmd.io/@eesss34690/HJtFo1iAd
 https://hackmd.io/@eesss34690/Skuynv6Cd
 ### 677_Map_Sum_Pairs
 https://hackmd.io/@eesss34690/HJc684ZJt
+### 42_Trapping_Rain_Water
+https://hackmd.io/@eesss34690/HJxyNRMJY
