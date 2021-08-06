@@ -169,3 +169,13 @@ https://hackmd.io/@eesss34690/Skuynv6Cd
 https://hackmd.io/@eesss34690/HJc684ZJt
 ### 42_Trapping_Rain_Water
 https://hackmd.io/@eesss34690/HJxyNRMJY
+### 827_Making_A_Large_Island
+https://hackmd.io/@eesss34690/ryhkp-ckt
+### 1_Two_Sum
+https://hackmd.io/@eesss34690/rk-RVMqyK
+### 90_Subsets_II
+https://hackmd.io/@eesss34690/r1wGuzq1K
+### 113_Path_Sum_II
+https://hackmd.io/@eesss34690/HJAe9zc1t
+### 877_Stone_Game
+https://hackmd.io/@eesss34690/SkLqnzqyt
