@@ -185,3 +185,7 @@ https://hackmd.io/@eesss34690/ByQ5Gu5kF
 https://hackmd.io/@eesss34690/H11Gfhnyt
 ### 1632_Rank_Transform_of_a_Matrix
 https://hackmd.io/@eesss34690/SJt4sIyxY
+### 415_Add_Strings
+https://hackmd.io/@eesss34690/SyJLBPkgF
+### 926_Flip_String_to_Monotone_Increasing
+https://hackmd.io/@eesss34690/SypEgCelt
