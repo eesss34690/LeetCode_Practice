@@ -189,3 +189,5 @@ https://hackmd.io/@eesss34690/SJt4sIyxY
 https://hackmd.io/@eesss34690/SyJLBPkgF
 ### 926_Flip_String_to_Monotone_Increasing
 https://hackmd.io/@eesss34690/SypEgCelt
+### 954_Array_of_Doubled_Pairs
+https://hackmd.io/@eesss34690/S1Hwab-lF
