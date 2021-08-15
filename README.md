@@ -191,3 +191,7 @@ https://hackmd.io/@eesss34690/SyJLBPkgF
 https://hackmd.io/@eesss34690/SypEgCelt
 ### 954_Array_of_Doubled_Pairs
 https://hackmd.io/@eesss34690/S1Hwab-lF
+### 73_Set_Matrix_Zeroes
+https://hackmd.io/@eesss34690/SJ-ilg8eK
+### 546_Remove_Boxes
+https://hackmd.io/@eesss34690/HkQ_mlIgF
