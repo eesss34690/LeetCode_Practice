@@ -197,3 +197,5 @@ https://hackmd.io/@eesss34690/SJ-ilg8eK
 https://hackmd.io/@eesss34690/HkQ_mlIgF
 ### 303_Range_Sum_Query-Immutable
 https://hackmd.io/@eesss34690/HJGq9nDxK
+### 1448_Count_Good_Nodes_in_Binary_Tree
+https://hackmd.io/@eesss34690/ByViKZtlt
