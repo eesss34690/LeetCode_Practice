@@ -201,3 +201,5 @@ https://hackmd.io/@eesss34690/HJGq9nDxK
 https://hackmd.io/@eesss34690/ByViKZtlt
 ### Decode_Ways
 https://hackmd.io/@eesss34690/H1nIZvceK
+### 36_Valid_Sudoku
+https://hackmd.io/@eesss34690/rkORvWAgt
