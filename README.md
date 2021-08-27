@@ -209,3 +209,7 @@ https://hackmd.io/@eesss34690/S1jqZmkZt
 https://hackmd.io/@eesss34690/rJ2AqCgWK
 ### 537 Complex Number Multiplication
 https://hackmd.io/@eesss34690/Bk26c7Mbt
+### 633 Sum of Square Numbers
+https://hackmd.io/@eesss34690/SJUp62rbK
+### 331 Verify Preorder Serialization of a Binary Tree
+https://hackmd.io/@eesss34690/Sy4ap3BZt
