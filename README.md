@@ -215,3 +215,7 @@ https://hackmd.io/@eesss34690/SJUp62rbK
 https://hackmd.io/@eesss34690/Sy4ap3BZt
 ### 1235 Maximum Profit in Job Scheduling
 https://hackmd.io/@eesss34690/HyfJjvdbY
+### 598 Range Addition II
+https://hackmd.io/@eesss34690/HyfEJwsZK
+### 153 Find Minimum in Rotated 
+https://hackmd.io/@eesss34690/r1QpiUs-Y
