@@ -221,3 +221,7 @@ https://hackmd.io/@eesss34690/HyfEJwsZK
 https://hackmd.io/@eesss34690/r1QpiUs-Y
 ### 565 Array Nesting
 https://hackmd.io/@eesss34690/HyHUza6Wt
+### 95 Unique Binary Search Trees II
+https://hackmd.io/@eesss34690/HyBODrezF
+### 587 Erect the Fence
+https://hackmd.io/@eesss34690/B1xkYSxGF
