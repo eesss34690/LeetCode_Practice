@@ -227,3 +227,7 @@ https://hackmd.io/@eesss34690/HyBODrezF
 https://hackmd.io/@eesss34690/B1xkYSxGF
 ### 834 Sum of Distances in Tree
 https://hackmd.io/@eesss34690/r1HCgj-ft
+### 899 Orderly Queue
+https://hackmd.io/@eesss34690/B1vAUI4fF
+### 1629 Slowest Key
+https://hackmd.io/@eesss34690/HJ21S8VGF
