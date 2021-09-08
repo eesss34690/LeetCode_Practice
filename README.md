@@ -231,3 +231,7 @@ https://hackmd.io/@eesss34690/r1HCgj-ft
 https://hackmd.io/@eesss34690/B1vAUI4fF
 ### 1629 Slowest Key
 https://hackmd.io/@eesss34690/HJ21S8VGF
+### 206 Reverse Linked List
+https://hackmd.io/@eesss34690/H1o6ZNLfF
+### 848 Shifting Letters
+https://hackmd.io/@eesss34690/BJZI4VLzY
