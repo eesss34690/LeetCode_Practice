@@ -235,3 +235,5 @@ https://hackmd.io/@eesss34690/HJ21S8VGF
 https://hackmd.io/@eesss34690/H1o6ZNLfF
 ### 848 Shifting Letters
 https://hackmd.io/@eesss34690/BJZI4VLzY
+### 764 Largest Plus Sign
+https://hackmd.io/@eesss34690/HkuZ95vzt
