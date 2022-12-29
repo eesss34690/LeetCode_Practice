@@ -241,3 +241,5 @@ https://hackmd.io/@eesss34690/HkuZ95vzt
 https://hackmd.io/@eesss34690/r1-flouGK
 ### 224 Basic Calculator
 https://hackmd.io/@eesss34690/r1SRCT5fK
+### 1834. Single-Threaded CPU
+https://hackmd.io/@eesss34690/Hy4l74jto
