@@ -1,5 +1,5 @@
 # 791_Custom_Sort_String
-###### tags: `leetcode` `791`
+###### tags: `leetcode`
 ## Problem Statement
 ```order``` and ```str``` are strings composed of lowercase letters. In order, no letter occurs more than once.
 
