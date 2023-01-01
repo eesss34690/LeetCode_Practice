@@ -247,3 +247,5 @@ https://hackmd.io/@eesss34690/Hy4l74jto
 https://hackmd.io/@eesss34690/Bk0GdOhYo
 ### 980. Unique Paths III
 https://hackmd.io/@eesss34690/r15HpHCFs
+### 129. Sum Root to Leaf Numbers
+https://hackmd.io/@eesss34690/r18vp8CKs
