@@ -1,5 +1,5 @@
 # 927_Three_Equal_Parts
-###### tags: `leetcode` `927`
+###### tags: `leetcode`
 ## Problem Statement
 You are given an array arr which consists of only zeros and ones, divide the array into three non-empty parts such that all of these parts represent the same binary value.
 
@@ -27,7 +27,7 @@ Output: $[-1,-1]$
 
 > Input: $arr = [1,1,0,0,1]$
 Output: $[0,2]$
- 
+
 - Constraints:
 
 > $3 \leq arr.length \leq 3 * 10^4$
