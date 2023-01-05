@@ -1,5 +1,5 @@
 # 446 Arithmetic Slices II - Subsequence
-###### tags: `leetcode` `446`
+###### tags: `leetcode`
 ## Problem Statement
 Given an integer array nums, return the number of all the arithmetic subsequences of nums.
 
