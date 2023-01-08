@@ -249,3 +249,5 @@ https://hackmd.io/@eesss34690/Bk0GdOhYo
 https://hackmd.io/@eesss34690/r15HpHCFs
 ### 129. Sum Root to Leaf Numbers
 https://hackmd.io/@eesss34690/r18vp8CKs
+### 149. Max Points on a Line
+https://hackmd.io/@eesss34690/rkbZg8u9o
