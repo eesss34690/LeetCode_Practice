@@ -255,3 +255,5 @@ https://hackmd.io/@eesss34690/rkbZg8u9o
 https://hackmd.io/@eesss34690/HkHfLv55j
 ### 1443. Minimum Time to Collect All Apples in a Tree
 https://hackmd.io/@eesss34690/S1zAl9iqs
+### 1519. Number of Nodes in the Sub-Tree With the Same Label
+https://hackmd.io/@eesss34690/H1BpJ_6cj
