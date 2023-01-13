@@ -257,3 +257,5 @@ https://hackmd.io/@eesss34690/HkHfLv55j
 https://hackmd.io/@eesss34690/S1zAl9iqs
 ### 1519. Number of Nodes in the Sub-Tree With the Same Label
 https://hackmd.io/@eesss34690/H1BpJ_6cj
+### 2246. Longest Path With Different Adjacent Characters
+https://hackmd.io/@eesss34690/Sy_u7405j
