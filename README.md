@@ -259,3 +259,5 @@ https://hackmd.io/@eesss34690/S1zAl9iqs
 https://hackmd.io/@eesss34690/H1BpJ_6cj
 ### 2246. Longest Path With Different Adjacent Characters
 https://hackmd.io/@eesss34690/Sy_u7405j
+### 2421. Number of Good Paths
+https://hackmd.io/@eesss34690/BkXnfMfji
