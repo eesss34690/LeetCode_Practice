@@ -261,3 +261,5 @@ https://hackmd.io/@eesss34690/H1BpJ_6cj
 https://hackmd.io/@eesss34690/Sy_u7405j
 ### 2421. Number of Good Paths
 https://hackmd.io/@eesss34690/BkXnfMfji
+### 1162. As Far from Land as Possible
+https://hackmd.io/@sHi0bzQ3TjqP5JS_3UKghg/SyR4ZE7po
