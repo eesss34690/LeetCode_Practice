@@ -263,3 +263,5 @@ https://hackmd.io/@eesss34690/Sy_u7405j
 https://hackmd.io/@eesss34690/BkXnfMfji
 ### 1162. As Far from Land as Possible
 https://hackmd.io/@eesss34690/SJeANNXTj
+#### 2477. Minimum Fuel Cost to Report to the Capital
+https://hackmd.io/@eesss34690/B1qWpe8ao
