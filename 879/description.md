@@ -23,12 +23,12 @@ There are 7 possible schemes: (0), (1), (2), (0,1), (0,2), (1,2), and (0,1,2).
 
 - Constraints:
 
-> $1 \leq n \leq 100\\
-0 \leq \text{minProfit} \leq 100\\
-1 \leq \text{group.length} \leq 100\\
-1 \leq \text{group}[i] \leq 100\\
-\text{profit.length} == \text{group.length}\\
-0 \leq \text{profit}[i] \leq 100$
+> $1 \leq n \leq 100$
+$0 \leq \text{minProfit} \leq 100$
+$1 \leq \text{group.length} \leq 100$
+$1 \leq \text{group}[i] \leq 100$
+$\text{profit.length} == \text{group.length}$
+$0 \leq \text{profit}[i] \leq 100$
 
 ## Solution
 - The problem can be simplified by using `dynamic programming`
@@ -52,6 +52,7 @@ for (int k = 0; k < group.size(); k++) {
             // The people and profit combination result is the original answer plus the added profit and people set possibility
             dp[min(i + p, minProfit)][j + g] = (dp[min(i + p, minProfit)][j + g] + dp[i][j]) % mod;
 }
+```
 - Finally, get the last row, which is the profit more than or equal to `minProfit` from no people to all the people resource
 ```cpp=
 for (auto x: dp[minProfit]) res = (res + x) % mod;
