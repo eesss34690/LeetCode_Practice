@@ -265,3 +265,5 @@ https://hackmd.io/@eesss34690/BkXnfMfji
 https://hackmd.io/@eesss34690/SJeANNXTj
 #### 2477. Minimum Fuel Cost to Report to the Capital
 https://hackmd.io/@eesss34690/B1qWpe8ao
+### 104. Maximum Depth of Binary Tree
+https://hackmd.io/@eesss34690/rJWZaeiaj
