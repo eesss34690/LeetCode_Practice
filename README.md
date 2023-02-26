@@ -271,3 +271,5 @@ https://hackmd.io/@eesss34690/rJWZaeiaj
 https://hackmd.io/@eesss34690/ryaQFB3To
 ### 226. Invert Binary Tree
 https://hackmd.io/@eesss34690/HyFRcj66s
+### 72. Edit Distance
+https://hackmd.io/@eesss34690/BkiE94_Ao
