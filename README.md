@@ -273,3 +273,5 @@ https://hackmd.io/@eesss34690/ryaQFB3To
 https://hackmd.io/@eesss34690/HyFRcj66s
 ### 72. Edit Distance
 https://hackmd.io/@eesss34690/BkiE94_Ao
+### 427. Construct Quad Tree
+https://hackmd.io/@eesss34690/rymGhyq0j
