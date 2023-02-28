@@ -275,3 +275,5 @@ https://hackmd.io/@eesss34690/HyFRcj66s
 https://hackmd.io/@eesss34690/BkiE94_Ao
 ### 427. Construct Quad Tree
 https://hackmd.io/@eesss34690/rymGhyq0j
+### 652. Find Duplicate Subtrees
+https://hackmd.io/@eesss34690/B1uW-R5Ai
