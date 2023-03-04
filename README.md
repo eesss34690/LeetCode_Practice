@@ -281,3 +281,5 @@ https://hackmd.io/@eesss34690/B1uW-R5Ai
 https://hackmd.io/@eesss34690/BkcDhr3Cs
 ### 1992. Find All Groups of Farmland
 https://hackmd.io/@eesss34690/SJHYGyJk2
+### 2444. Count Subarrays With Fixed Bounds
+https://hackmd.io/@eesss34690/S1Ve_4e1h
