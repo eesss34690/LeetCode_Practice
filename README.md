@@ -283,3 +283,5 @@ https://hackmd.io/@eesss34690/BkcDhr3Cs
 https://hackmd.io/@eesss34690/SJHYGyJk2
 ### 2444. Count Subarrays With Fixed Bounds
 https://hackmd.io/@eesss34690/S1Ve_4e1h
+### 1345. Jump Game IV
+https://hackmd.io/@eesss34690/r1voQw-12
