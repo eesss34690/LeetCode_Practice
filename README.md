@@ -285,3 +285,5 @@ https://hackmd.io/@eesss34690/SJHYGyJk2
 https://hackmd.io/@eesss34690/S1Ve_4e1h
 ### 1345. Jump Game IV
 https://hackmd.io/@eesss34690/r1voQw-12
+### 2187. Minimum Time to Complete Trips
+https://hackmd.io/@eesss34690/Sk0lYzNyh
