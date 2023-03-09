@@ -287,3 +287,5 @@ https://hackmd.io/@eesss34690/S1Ve_4e1h
 https://hackmd.io/@eesss34690/r1voQw-12
 ### 2187. Minimum Time to Complete Trips
 https://hackmd.io/@eesss34690/Sk0lYzNyh
+### 142. Linked List Cycle II
+https://hackmd.io/@eesss34690/BkDLH28kh
