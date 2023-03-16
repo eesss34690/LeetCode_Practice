@@ -293,3 +293,5 @@ https://hackmd.io/@eesss34690/BkDLH28kh
 https://hackmd.io/@eesss34690/HJV_UUFk2
 ### 23. Merge k Sorted Lists
 https://hackmd.io/@eesss34690/BkYDps5J2
+### 106. Construct Binary Tree from Inorder and Postorder Traversal
+https://hackmd.io/@eesss34690/r1VacJegn
