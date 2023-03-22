@@ -297,3 +297,5 @@ https://hackmd.io/@eesss34690/BkYDps5J2
 https://hackmd.io/@eesss34690/r1VacJegn
 ### 211. Design Add and Search Words Data Structure
 https://hackmd.io/@eesss34690/SkpVqxNe2
+### 2492. Minimum Score of a Path Between Two Cities
+https://hackmd.io/@eesss34690/BJC-L8den
