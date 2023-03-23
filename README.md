@@ -299,3 +299,5 @@ https://hackmd.io/@eesss34690/r1VacJegn
 https://hackmd.io/@eesss34690/SkpVqxNe2
 ### 2492. Minimum Score of a Path Between Two Cities
 https://hackmd.io/@eesss34690/BJC-L8den
+### 1319. Number of Operations to Make Network Connected
+https://hackmd.io/@eesss34690/B16DwXFen
