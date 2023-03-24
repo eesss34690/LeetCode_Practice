@@ -301,3 +301,5 @@ https://hackmd.io/@eesss34690/SkpVqxNe2
 https://hackmd.io/@eesss34690/BJC-L8den
 ### 1319. Number of Operations to Make Network Connected
 https://hackmd.io/@eesss34690/B16DwXFen
+### 1466. Reorder Routes to Make All Paths Lead to the City Zero
+https://hackmd.io/@eesss34690/H16DGO9g3
