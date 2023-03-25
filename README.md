@@ -303,3 +303,5 @@ https://hackmd.io/@eesss34690/BJC-L8den
 https://hackmd.io/@eesss34690/B16DwXFen
 ### 1466. Reorder Routes to Make All Paths Lead to the City Zero
 https://hackmd.io/@eesss34690/H16DGO9g3
+### 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+https://hackmd.io/@eesss34690/BJC4wAog2
