@@ -305,3 +305,5 @@ https://hackmd.io/@eesss34690/B16DwXFen
 https://hackmd.io/@eesss34690/H16DGO9g3
 ### 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
 https://hackmd.io/@eesss34690/BJC4wAog2
+### 2360. Longest Cycle in a Graph
+https://hackmd.io/@eesss34690/r1izcm6lh
