@@ -309,3 +309,5 @@ https://hackmd.io/@eesss34690/BJC4wAog2
 https://hackmd.io/@eesss34690/r1izcm6lh
 ### 64. Minimum Path Sum
 https://hackmd.io/@eesss34690/SyNVvuAen
+### 983. Minimum Cost For Tickets
+https://hackmd.io/@eesss34690/BJZngaJW3
