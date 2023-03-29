@@ -311,3 +311,5 @@ https://hackmd.io/@eesss34690/r1izcm6lh
 https://hackmd.io/@eesss34690/SyNVvuAen
 ### 983. Minimum Cost For Tickets
 https://hackmd.io/@eesss34690/BJZngaJW3
+### 1402. Reducing Dishes
+https://hackmd.io/@eesss34690/HkadlG-Z2
