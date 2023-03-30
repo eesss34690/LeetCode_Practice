@@ -303,7 +303,7 @@ https://hackmd.io/@eesss34690/BJC-L8den
 https://hackmd.io/@eesss34690/B16DwXFen
 ### 1466. Reorder Routes to Make All Paths Lead to the City Zero
 https://hackmd.io/@eesss34690/H16DGO9g3
-### 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+### 2316. Count Unreachable Pairs of Nodes in an Undirected Gra### ph
 https://hackmd.io/@eesss34690/BJC4wAog2
 ### 2360. Longest Cycle in a Graph
 https://hackmd.io/@eesss34690/r1izcm6lh
@@ -313,3 +313,5 @@ https://hackmd.io/@eesss34690/SyNVvuAen
 https://hackmd.io/@eesss34690/BJZngaJW3
 ### 1402. Reducing Dishes
 https://hackmd.io/@eesss34690/HkadlG-Z2
+### 87. Scramble String
+https://hackmd.io/@eesss34690/SydWctM-3
