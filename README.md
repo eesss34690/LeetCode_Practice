@@ -315,3 +315,5 @@ https://hackmd.io/@eesss34690/BJZngaJW3
 https://hackmd.io/@eesss34690/HkadlG-Z2
 ### 87. Scramble String
 https://hackmd.io/@eesss34690/SydWctM-3
+### 2300. Successful Pairs of Spells and Potions
+https://hackmd.io/@eesss34690/SJ8ttPUZh
