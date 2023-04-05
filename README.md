@@ -317,3 +317,5 @@ https://hackmd.io/@eesss34690/HkadlG-Z2
 https://hackmd.io/@eesss34690/SydWctM-3
 ### 2300. Successful Pairs of Spells and Potions
 https://hackmd.io/@eesss34690/SJ8ttPUZh
+### 2439. Minimize Maximum of Array
+https://hackmd.io/@eesss34690/ryrq5tqZ2
