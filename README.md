@@ -319,3 +319,5 @@ https://hackmd.io/@eesss34690/SydWctM-3
 https://hackmd.io/@eesss34690/SJ8ttPUZh
 ### 2439. Minimize Maximum of Array
 https://hackmd.io/@eesss34690/ryrq5tqZ2
+### 1254. Number of Closed Islands
+https://hackmd.io/@eesss34690/ryiYXnoZ3
