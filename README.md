@@ -323,3 +323,5 @@ https://hackmd.io/@eesss34690/ryrq5tqZ2
 https://hackmd.io/@eesss34690/ryiYXnoZ3
 ### 133. Clone Graph
 https://hackmd.io/@eesss34690/ry_N7HC-2
+### 1857. Largest Color Value in a Directed Graph
+https://hackmd.io/@eesss34690/H1CGYcJG2
