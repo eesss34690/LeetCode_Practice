@@ -325,3 +325,5 @@ https://hackmd.io/@eesss34690/ryiYXnoZ3
 https://hackmd.io/@eesss34690/ry_N7HC-2
 ### 1857. Largest Color Value in a Directed Graph
 https://hackmd.io/@eesss34690/H1CGYcJG2
+### 71. Simplify Path
+https://hackmd.io/@eesss34690/SyeWQKmM3
