@@ -331,3 +331,5 @@ https://hackmd.io/@eesss34690/SyeWQKmM3
 https://hackmd.io/@eesss34690/BkyJPwwMh
 ### 2218. Maximum Value of K Coins From Piles
 https://hackmd.io/@eesss34690/SJCKCYwfh
+### 1639. Number of Ways to Form a Target String Given a Dictionary
+https://hackmd.io/@eesss34690/Sk4JbXqzh
