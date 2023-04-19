@@ -333,3 +333,5 @@ https://hackmd.io/@eesss34690/BkyJPwwMh
 https://hackmd.io/@eesss34690/SJCKCYwfh
 ### 1639. Number of Ways to Form a Target String Given a Dictionary
 https://hackmd.io/@eesss34690/Sk4JbXqzh
+### 1372. Longest ZigZag Path in a Binary Tree
+https://hackmd.io/@eesss34690/H1k5xahM3
