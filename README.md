@@ -335,3 +335,5 @@ https://hackmd.io/@eesss34690/SJCKCYwfh
 https://hackmd.io/@eesss34690/Sk4JbXqzh
 ### 1372. Longest ZigZag Path in a Binary Tree
 https://hackmd.io/@eesss34690/H1k5xahM3
+### 662. Maximum Width of Binary Tree
+https://hackmd.io/@eesss34690/By9y6f0Mh
