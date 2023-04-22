@@ -337,3 +337,5 @@ https://hackmd.io/@eesss34690/Sk4JbXqzh
 https://hackmd.io/@eesss34690/H1k5xahM3
 ### 662. Maximum Width of Binary Tree
 https://hackmd.io/@eesss34690/By9y6f0Mh
+### 1312. Minimum Insertion Steps to Make a String Palindrome
+https://hackmd.io/@eesss34690/ry1mp2lmn
