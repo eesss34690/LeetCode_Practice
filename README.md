@@ -339,3 +339,5 @@ https://hackmd.io/@eesss34690/H1k5xahM3
 https://hackmd.io/@eesss34690/By9y6f0Mh
 ### 1312. Minimum Insertion Steps to Make a String Palindrome
 https://hackmd.io/@eesss34690/ry1mp2lmn
+### 1416. Restore The Array
+https://hackmd.io/@eesss34690/SkCHmZMm2
