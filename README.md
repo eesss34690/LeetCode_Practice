@@ -341,3 +341,5 @@ https://hackmd.io/@eesss34690/By9y6f0Mh
 https://hackmd.io/@eesss34690/ry1mp2lmn
 ### 1416. Restore The Array
 https://hackmd.io/@eesss34690/SkCHmZMm2
+### 1046. Last Stone Weight
+https://hackmd.io/@eesss34690/r133YBQmn
