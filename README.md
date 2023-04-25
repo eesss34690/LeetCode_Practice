@@ -343,3 +343,5 @@ https://hackmd.io/@eesss34690/ry1mp2lmn
 https://hackmd.io/@eesss34690/SkCHmZMm2
 ### 1046. Last Stone Weight
 https://hackmd.io/@eesss34690/r133YBQmn
+### 2336. Smallest Number in Infinite Set
+https://hackmd.io/@eesss34690/HyrUWoN7n
