@@ -345,3 +345,5 @@ https://hackmd.io/@eesss34690/SkCHmZMm2
 https://hackmd.io/@eesss34690/r133YBQmn
 ### 2336. Smallest Number in Infinite Set
 https://hackmd.io/@eesss34690/HyrUWoN7n
+### 258. Add Digits
+https://hackmd.io/@eesss34690/BkGehOI72
