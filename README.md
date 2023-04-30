@@ -349,3 +349,7 @@ https://hackmd.io/@eesss34690/HyrUWoN7n
 https://hackmd.io/@eesss34690/BkGehOI72
 ### 839. Similar String Groups
 https://hackmd.io/@eesss34690/BkU5eqd72
+### 1697. Checking Existence of Edge Length Limited Paths
+https://hackmd.io/@eesss34690/r1xKBZ5Qh
+### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+https://hackmd.io/@eesss34690/BJUh1SiQ3
