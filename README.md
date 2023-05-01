@@ -353,3 +353,5 @@ https://hackmd.io/@eesss34690/BkU5eqd72
 https://hackmd.io/@eesss34690/r1xKBZ5Qh
 ### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 https://hackmd.io/@eesss34690/BJUh1SiQ3
+### 1491. Average Salary Excluding the Minimum and Maximum Salary
+https://hackmd.io/@eesss34690/H11qq5372
