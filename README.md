@@ -355,3 +355,5 @@ https://hackmd.io/@eesss34690/r1xKBZ5Qh
 https://hackmd.io/@eesss34690/BJUh1SiQ3
 ### 1491. Average Salary Excluding the Minimum and Maximum Salary
 https://hackmd.io/@eesss34690/H11qq5372
+### 649. Dota2 Senate
+https://hackmd.io/@eesss34690/r1aAW6lN3
