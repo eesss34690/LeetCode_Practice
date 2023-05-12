@@ -365,3 +365,5 @@ https://hackmd.io/@eesss34690/ryeCJmD42
 https://hackmd.io/@eesss34690/BJxWMPOEn
 ### 1035. Uncrossed Lines
 https://hackmd.io/@eesss34690/HJbRbpFE2
+### 2140. Solving Questions With Brainpower
+https://hackmd.io/@eesss34690/SJQAR-o43
