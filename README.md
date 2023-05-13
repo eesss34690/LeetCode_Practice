@@ -367,3 +367,5 @@ https://hackmd.io/@eesss34690/BJxWMPOEn
 https://hackmd.io/@eesss34690/HJbRbpFE2
 ### 2140. Solving Questions With Brainpower
 https://hackmd.io/@eesss34690/SJQAR-o43
+### 2466. Count Ways To Build Good Strings
+https://hackmd.io/@eesss34690/BJn9eP3Eh
