@@ -369,3 +369,5 @@ https://hackmd.io/@eesss34690/HJbRbpFE2
 https://hackmd.io/@eesss34690/SJQAR-o43
 ### 2466. Count Ways To Build Good Strings
 https://hackmd.io/@eesss34690/BJn9eP3Eh
+### 1799. Maximize Score After N Operations
+https://hackmd.io/@eesss34690/S1kx03pN2
