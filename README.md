@@ -371,3 +371,5 @@ https://hackmd.io/@eesss34690/SJQAR-o43
 https://hackmd.io/@eesss34690/BJn9eP3Eh
 ### 1799. Maximize Score After N Operations
 https://hackmd.io/@eesss34690/S1kx03pN2
+### 1721. Swapping Nodes in a Linked List
+https://hackmd.io/@eesss34690/ry2d7HJSh
