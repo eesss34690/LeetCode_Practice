@@ -373,3 +373,5 @@ https://hackmd.io/@eesss34690/BJn9eP3Eh
 https://hackmd.io/@eesss34690/S1kx03pN2
 ### 1721. Swapping Nodes in a Linked List
 https://hackmd.io/@eesss34690/ry2d7HJSh
+### 1140. Stone Game II
+https://hackmd.io/@eesss34690/SJiqpt6S3
