@@ -375,3 +375,5 @@ https://hackmd.io/@eesss34690/S1kx03pN2
 https://hackmd.io/@eesss34690/ry2d7HJSh
 ### 1140. Stone Game II
 https://hackmd.io/@eesss34690/SJiqpt6S3
+### 1406. Stone Game III
+https://hackmd.io/@eesss34690/ry3ye1JI3
