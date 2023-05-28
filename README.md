@@ -377,3 +377,5 @@ https://hackmd.io/@eesss34690/ry2d7HJSh
 https://hackmd.io/@eesss34690/SJiqpt6S3
 ### 1406. Stone Game III
 https://hackmd.io/@eesss34690/ry3ye1JI3
+### 1547. Minimum Cost to Cut a Stick
+https://hackmd.io/@eesss34690/HJhCOQgLn
