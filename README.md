@@ -379,3 +379,5 @@ https://hackmd.io/@eesss34690/SJiqpt6S3
 https://hackmd.io/@eesss34690/ry3ye1JI3
 ### 1547. Minimum Cost to Cut a Stick
 https://hackmd.io/@eesss34690/HJhCOQgLn
+### 1396. Design Underground System
+https://hackmd.io/@eesss34690/Hy2V3H4Ln
