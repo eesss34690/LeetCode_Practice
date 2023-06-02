@@ -383,3 +383,5 @@ https://hackmd.io/@eesss34690/HJhCOQgLn
 https://hackmd.io/@eesss34690/Hy2V3H4Ln
 ### 1091. Shortest Path in Binary Matrix
 https://hackmd.io/@eesss34690/BJbUGqHLn
+### 2101. Detonate the Maximum Bombs
+https://hackmd.io/@eesss34690/ByhiIpU83
