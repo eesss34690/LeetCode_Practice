@@ -385,3 +385,5 @@ https://hackmd.io/@eesss34690/Hy2V3H4Ln
 https://hackmd.io/@eesss34690/BJbUGqHLn
 ### 2101. Detonate the Maximum Bombs
 https://hackmd.io/@eesss34690/ByhiIpU83
+### 1376. Time Needed to Inform All Employees
+https://hackmd.io/@eesss34690/r1TXJzd83
