@@ -387,3 +387,5 @@ https://hackmd.io/@eesss34690/BJbUGqHLn
 https://hackmd.io/@eesss34690/ByhiIpU83
 ### 1376. Time Needed to Inform All Employees
 https://hackmd.io/@eesss34690/r1TXJzd83
+### 547. Number of Provinces
+https://hackmd.io/@eesss34690/r1u-fgi8n
