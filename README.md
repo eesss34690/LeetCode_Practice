@@ -389,3 +389,5 @@ https://hackmd.io/@eesss34690/ByhiIpU83
 https://hackmd.io/@eesss34690/r1TXJzd83
 ### 547. Number of Provinces
 https://hackmd.io/@eesss34690/r1u-fgi8n
+### 1802. Maximum Value at a Given Index in a Bounded Array
+https://hackmd.io/@eesss34690/r1cfpI-vh
