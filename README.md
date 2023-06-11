@@ -391,3 +391,5 @@ https://hackmd.io/@eesss34690/r1TXJzd83
 https://hackmd.io/@eesss34690/r1u-fgi8n
 ### 1802. Maximum Value at a Given Index in a Bounded Array
 https://hackmd.io/@eesss34690/r1cfpI-vh
+### 1146. Snapshot Array
+https://hackmd.io/@eesss34690/rJ3ebjGDn
