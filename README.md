@@ -393,3 +393,5 @@ https://hackmd.io/@eesss34690/r1u-fgi8n
 https://hackmd.io/@eesss34690/r1cfpI-vh
 ### 1146. Snapshot Array
 https://hackmd.io/@eesss34690/rJ3ebjGDn
+### 1161. Maximum Level Sum of a Binary Tree
+https://hackmd.io/@eesss34690/S1um_RwDn
