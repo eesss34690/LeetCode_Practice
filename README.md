@@ -395,3 +395,5 @@ https://hackmd.io/@eesss34690/r1cfpI-vh
 https://hackmd.io/@eesss34690/rJ3ebjGDn
 ### 1161. Maximum Level Sum of a Binary Tree
 https://hackmd.io/@eesss34690/S1um_RwDn
+### 1569. Number of Ways to Reorder Array to Get Same BST
+https://hackmd.io/@eesss34690/SJddDVFPh
