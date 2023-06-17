@@ -397,3 +397,5 @@ https://hackmd.io/@eesss34690/rJ3ebjGDn
 https://hackmd.io/@eesss34690/S1um_RwDn
 ### 1569. Number of Ways to Reorder Array to Get Same BST
 https://hackmd.io/@eesss34690/SJddDVFPh
+### 1187. Make Array Strictly Increasing
+https://hackmd.io/@eesss34690/Hkn46Y5vh
