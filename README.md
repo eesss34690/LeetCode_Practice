@@ -399,3 +399,5 @@ https://hackmd.io/@eesss34690/S1um_RwDn
 https://hackmd.io/@eesss34690/SJddDVFPh
 ### 1187. Make Array Strictly Increasing
 https://hackmd.io/@eesss34690/Hkn46Y5vh
+### 2328. Number of Increasing Paths in a Grid
+https://hackmd.io/@eesss34690/rkciounwn
