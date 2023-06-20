@@ -401,3 +401,5 @@ https://hackmd.io/@eesss34690/SJddDVFPh
 https://hackmd.io/@eesss34690/Hkn46Y5vh
 ### 2328. Number of Increasing Paths in a Grid
 https://hackmd.io/@eesss34690/rkciounwn
+### 2090. K Radius Subarray Averages
+https://hackmd.io/@eesss34690/HylP4_AD3
