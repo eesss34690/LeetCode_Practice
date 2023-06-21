@@ -403,3 +403,5 @@ https://hackmd.io/@eesss34690/Hkn46Y5vh
 https://hackmd.io/@eesss34690/rkciounwn
 ### 2090. K Radius Subarray Averages
 https://hackmd.io/@eesss34690/HylP4_AD3
+### 2448. Minimum Cost to Make Array Equal
+https://hackmd.io/@eesss34690/HJKs7ayd2
