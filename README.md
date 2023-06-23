@@ -405,3 +405,5 @@ https://hackmd.io/@eesss34690/rkciounwn
 https://hackmd.io/@eesss34690/HylP4_AD3
 ### 2448. Minimum Cost to Make Array Equal
 https://hackmd.io/@eesss34690/HJKs7ayd2
+### 1027. Longest Arithmetic Subsequence
+https://hackmd.io/@eesss34690/H10xCufuh
