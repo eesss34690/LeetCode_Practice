@@ -411,3 +411,5 @@ https://hackmd.io/@eesss34690/H10xCufuh
 https://hackmd.io/@eesss34690/H1gTpCm_3
 ### 1575. Count All Possible Routes
 https://hackmd.io/@eesss34690/B1FkfzH_3
+### 2462. Total Cost to Hire K Workers
+https://hackmd.io/@eesss34690/HkgkMDL_2
