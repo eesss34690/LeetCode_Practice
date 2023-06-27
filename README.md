@@ -413,3 +413,5 @@ https://hackmd.io/@eesss34690/H1gTpCm_3
 https://hackmd.io/@eesss34690/B1FkfzH_3
 ### 2462. Total Cost to Hire K Workers
 https://hackmd.io/@eesss34690/HkgkMDL_2
+### 373. Find K Pairs with Smallest Sums
+https://hackmd.io/@eesss34690/BkJNanP_h
