@@ -415,3 +415,7 @@ https://hackmd.io/@eesss34690/B1FkfzH_3
 https://hackmd.io/@eesss34690/HkgkMDL_2
 ### 373. Find K Pairs with Smallest Sums
 https://hackmd.io/@eesss34690/BkJNanP_h
+### 1514. Path with Maximum Probability
+https://hackmd.io/@eesss34690/HJyO3t9u2
+### 864. Shortest Path to Get All Keys
+https://hackmd.io/@eesss34690/rkMggqqu2
