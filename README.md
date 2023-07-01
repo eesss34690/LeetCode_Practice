@@ -419,3 +419,5 @@ https://hackmd.io/@eesss34690/BkJNanP_h
 https://hackmd.io/@eesss34690/HJyO3t9u2
 ### 864. Shortest Path to Get All Keys
 https://hackmd.io/@eesss34690/rkMggqqu2
+### 2305. Fair Distribution of Cookies
+https://hackmd.io/@eesss34690/SJ-gVbadn
