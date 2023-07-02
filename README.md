@@ -421,3 +421,5 @@ https://hackmd.io/@eesss34690/HJyO3t9u2
 https://hackmd.io/@eesss34690/rkMggqqu2
 ### 2305. Fair Distribution of Cookies
 https://hackmd.io/@eesss34690/SJ-gVbadn
+### 1601. Maximum Number of Achievable Transfer Requests
+https://hackmd.io/@eesss34690/H1QqdD0un
