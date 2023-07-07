@@ -425,3 +425,5 @@ https://hackmd.io/@eesss34690/SJ-gVbadn
 https://hackmd.io/@eesss34690/H1QqdD0un
 ### 209. Minimum Size Subarray Sum
 https://hackmd.io/@eesss34690/SJbgPkWKn
+### 2024. Maximize the Confusion of an Exam
+https://hackmd.io/@eesss34690/S15UoyrKh
