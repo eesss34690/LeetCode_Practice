@@ -427,5 +427,7 @@ https://hackmd.io/@eesss34690/H1QqdD0un
 https://hackmd.io/@eesss34690/SJbgPkWKn
 ### 2024. Maximize the Confusion of an Exam
 https://hackmd.io/@eesss34690/S15UoyrKh
-### 2551. Put Marbles in Bags
+### 2551. Put Marbles in Bags 
 https://hackmd.io/@eesss34690/rkJGb8Lth
+### 2272. Substring With Largest Variance
+https://hackmd.io/@eesss34690/rynsD9PF2
