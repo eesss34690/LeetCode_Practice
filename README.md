@@ -433,3 +433,5 @@ https://hackmd.io/@eesss34690/rkJGb8Lth
 https://hackmd.io/@eesss34690/rynsD9PF2
 ### 863. All Nodes Distance K in Binary Tree
 https://hackmd.io/@eesss34690/SyB5qviYh
+### 802. Find Eventual Safe States
+https://hackmd.io/@eesss34690/r1UQTdotn
