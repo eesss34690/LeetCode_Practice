@@ -435,3 +435,5 @@ https://hackmd.io/@eesss34690/rynsD9PF2
 https://hackmd.io/@eesss34690/SyB5qviYh
 ### 802. Find Eventual Safe States
 https://hackmd.io/@eesss34690/r1UQTdotn
+### 1751. Maximum Number of Events That Can Be Attended II
+https://hackmd.io/@eesss34690/H1Jjp_1qh
