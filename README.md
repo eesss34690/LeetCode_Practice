@@ -437,3 +437,5 @@ https://hackmd.io/@eesss34690/SyB5qviYh
 https://hackmd.io/@eesss34690/r1UQTdotn
 ### 1751. Maximum Number of Events That Can Be Attended II
 https://hackmd.io/@eesss34690/H1Jjp_1qh
+### 1125. Smallest Sufficient Team
+https://hackmd.io/@eesss34690/rJiIv6l9n
