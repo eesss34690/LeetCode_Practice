@@ -439,3 +439,5 @@ https://hackmd.io/@eesss34690/r1UQTdotn
 https://hackmd.io/@eesss34690/H1Jjp_1qh
 ### 1125. Smallest Sufficient Team
 https://hackmd.io/@eesss34690/rJiIv6l9n
+### 146. LRU Cache
+https://hackmd.io/@eesss34690/r14OZvXc2
